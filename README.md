@@ -31,8 +31,7 @@ typedef struct binary_tree_s bst_t;
 typedef struct binary_tree_s avl_t;
 typedef struct binary_tree_s heap_t;
 ```
-                                                |
-
+                                               
 ## Tasks :page_with_curl:
 
 * **0. New node**
